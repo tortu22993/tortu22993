@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-ymzqj&psig=AOvVaw0vBUXtOjXQiTP7r4Ns6SdB&ust=1739538070246000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJikw7vawIsDFQAAAAAdAAAAABAE"  />
+  <img height="150" src="https://e7.pngegg.com/pngimages/722/396/png-clipart-baby-ducks-rubber-duck-anmiated-duck-s-bathroom-vertebrate-thumbnail.png"  />
 </div>
 
 ###
@@ -11,6 +11,12 @@
   <a href="enrique.escalante@hotmail.es" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tortu22993.tortu22993&"  />
 </div>
 
 ###
@@ -62,5 +68,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tortu22993&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
