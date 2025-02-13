@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://e7.pngegg.com/pngimages/722/396/png-clipart-baby-ducks-rubber-duck-anmiated-duck-s-bathroom-vertebrate-thumbnail.png"  />
+  <img height="150" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/bw/512px/1f986.png"  />
 </div>
 
 ###
