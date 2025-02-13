@@ -76,3 +76,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tortu22993/tortu22993/output/snake.svg" alt="Snake animation" />
+
+###
